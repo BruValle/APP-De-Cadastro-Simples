@@ -1,0 +1,15 @@
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\bin\Debug\net6.0\Dio.Serie.exe
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\bin\Debug\net6.0\Dio.Serie.deps.json
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\bin\Debug\net6.0\Dio.Serie.runtimeconfig.json
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\bin\Debug\net6.0\Dio.Serie.dll
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\bin\Debug\net6.0\ref\Dio.Serie.dll
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\bin\Debug\net6.0\Dio.Serie.pdb
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.csproj.AssemblyReference.cache
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.AssemblyInfoInputs.cache
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.AssemblyInfo.cs
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.csproj.CoreCompileInputs.cache
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.dll
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\ref\Dio.Serie.dll
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.pdb
+F:\Bkp.BValle\BValle\Curso DIO\Dio.Serie\obj\Debug\net6.0\Dio.Serie.genruntimeconfig.cache
